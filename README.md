@@ -3,13 +3,21 @@
 Je suis étudiant à l'IUT du Havre, passionné et curieux par le développement informatique  Bienvenue sur mon profil GitHub !
 
 ---
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajima90&theme=radical&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=sajima90&theme=dark&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajima90&theme=radical&layout=compact" width="380">
+<a href="https://github.com/sajima90/github-readme-stats" > 
+	<img src="https://github-readme-stats.vercel.app/api?username=sajima90&theme=dark&show_icons=true" width="500">
+</a>
 
+<div style="width: 380px; height: 160px; display: flex; overflow: hidden; align-items: flex-start; border-radius: 01px; border: 2px solid #FFFFFF;">
 
----
+  <a href="https://github.com/sajima90">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=saji&theme=dark" alt="Harlok's WakaTime stats" style="height: 100%; width: auto;">
+  </a>
+ 
+</div>
+<br>
+ <a href="https://wakatime.com/@33e6f30c-31bc-4c33-908f-50211441c463"><img src="https://wakatime.com/badge/user/33e6f30c-31bc-4c33-908f-50211441c463.svg" alt="Total time coded since Jan 14 2022" /></a>
 
-[![wakatime](https://wakatime.com/badge/user/33e6f30c-31bc-4c33-908f-50211441c463.svg)](https://wakatime.com/@33e6f30c-31bc-4c33-908f-50211441c463)
 
 ### 🛠️ Technologies & Outils 🐧 Acquis
 
@@ -38,3 +46,5 @@ Je suis étudiant à l'IUT du Havre, passionné et curieux par le développement
 
 - LinkedIn : [Pierre Cauvin](https://www.linkedin.com/in/pierre-cauvin-b75269264/)
 - Email: [sajima9075@gmail.com](mailto:sajima9075@gmail.com@gmail.com)
+
+---
