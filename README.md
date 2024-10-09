@@ -4,9 +4,7 @@ Je suis étudiant à l'IUT du Havre, passionné et curieux par le développement
 
 ---
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajima90&theme=radical&layout=compact" width="380">
-<a href="https://github.com/sajima90/github-readme-stats" > 
-	<img src="https://github-readme-stats.vercel.app/api?username=sajima90&theme=dark&show_icons=true" width="500">
-</a>
+
 
  <a href="https://wakatime.com/@33e6f30c-31bc-4c33-908f-50211441c463"><img src="https://wakatime.com/badge/user/33e6f30c-31bc-4c33-908f-50211441c463.svg" alt="Total time coded since Jan 14 2022" /></a>
 
