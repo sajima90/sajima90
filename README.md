@@ -1,10 +1,8 @@
-### Hi, I am a French Developer 👋
+### Bonjour, 👋
 
-Je suis étudiant à l'IUT du Havre, passionné et curieux par le développement informatique  Bienvenue sur mon profil GitHub !
+Je suis étudiant à l'IUT du Havre, passionné par le développement informatique 
 
 ---
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajima90&theme=radical&layout=compact" width="380">
-
 
  <a href="https://wakatime.com/@33e6f30c-31bc-4c33-908f-50211441c463"><img src="https://wakatime.com/badge/user/33e6f30c-31bc-4c33-908f-50211441c463.svg" alt="Total time coded since Jan 14 2022" /></a>
 
@@ -30,6 +28,8 @@ Je suis étudiant à l'IUT du Havre, passionné et curieux par le développement
 ### 🌱 Actuellement en train d'apprendre
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/php-20232A?style=for-the-badge&logo=php)
+
 ---
 
 ### 📫 Comment me contacter
@@ -38,3 +38,5 @@ Je suis étudiant à l'IUT du Havre, passionné et curieux par le développement
 - Email: [sajima9075@gmail.com](mailto:sajima9075@gmail.com@gmail.com)
 
 ---
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Saji/8fa260df-8c77-4ff0-8ce7-b2a9a21a9755.png" /></a>
