@@ -1,6 +1,6 @@
 ### Bonjour, 👋
 
-Je suis étudiant à l'IUT du Havre, passionné par le développement informatique 
+Je suis étudiant à l'IUT du Havre, passionné par le développement informatique & la programmation ! 
 
 ---
 
